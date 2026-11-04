@@ -1,18 +1,13 @@
 Task 8
 
 Command:
-curl -s https://api.github.com/repos/Chandrashekhar-ch/COURSEERA/pulls/1
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/13351
 
 Verified terminal output fields:
-html_url: https://github.com/Chandrashekhar-ch/COURSEERA/pull/1
+html_url: https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/13351
 state: closed
-title: [WIP] Add README file for simple interest calculator
-head.repo.full_name: Chandrashekhar-ch/COURSEERA
-head.ref: copilot/add-readme-simple-interest-calculator
-base.repo.full_name: Chandrashekhar-ch/COURSEERA
+title: Bug fix revert
+head.repo.full_name: Eng-Muhammad-Ishaq/mcino-Introduction-to-Git-and-GitHub
+head.ref: bug-fix-revert
+base.repo.full_name: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
 base.ref: main
-
-Note: The requested repository
-ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub does not
-exist as a public repository under the account used for this workspace, so a
-pull request API response for that repository cannot be verified here.
