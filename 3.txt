@@ -1,0 +1,4 @@
+Task 3
+
+Public GitHub repository URL of CODE_OF_CONDUCT:
+https://github.com/Chandrashekhar-ch/COURSEERA/blob/main/CODE_OF_CONDUCT

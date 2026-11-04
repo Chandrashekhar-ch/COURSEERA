@@ -1,0 +1,13 @@
+Task 8
+
+Command:
+curl -s https://api.github.com/repos/Chandrashekhar-ch/COURSEERA/pulls/1
+
+Verified pull request details:
+URL: https://github.com/Chandrashekhar-ch/COURSEERA/pull/1
+State: closed
+Title: [WIP] Add README file for simple interest calculator
+Head repository: Chandrashekhar-ch/COURSEERA
+Base repository: Chandrashekhar-ch/COURSEERA
+Head branch: copilot/add-readme-simple-interest-calculator
+Base branch: main

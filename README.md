@@ -26,6 +26,14 @@ Where:
    bash simple-interest.sh
    ```
 
+The calculator also accepts values as command-line arguments:
+
+```bash
+bash simple-interest.sh 1000 5 2
+```
+
+Arguments are principal, annual rate of interest, and time in years. Values must be non-negative numbers. Results are rounded and displayed to two decimal places. Use `--help` to display the command syntax.
+
 ## Example
 
 **Input:**
@@ -34,7 +42,15 @@ Where:
 - Time: 2 years
 
 **Output:**
-- Simple Interest: 100
+- Simple Interest: 100.00
+
+## Tests
+
+Run the regression tests from the project root:
+
+```bash
+bash tests/test_simple_interest.sh
+```
 
 ## Technologies Used
 - Bash Shell Scripting

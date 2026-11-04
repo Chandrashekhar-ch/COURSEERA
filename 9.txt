@@ -1,0 +1,12 @@
+Task 9
+
+Command:
+git branch -vv
+
+Terminal output:
+* main b447cf7 [origin/main] Create forked-repo
+
+Remote branches:
+origin/HEAD -> origin/main
+origin/main
+origin/copilot/add-readme-simple-interest-calculator
