@@ -3,11 +3,16 @@ Task 8
 Command:
 curl -s https://api.github.com/repos/Chandrashekhar-ch/COURSEERA/pulls/1
 
-Verified pull request details:
-URL: https://github.com/Chandrashekhar-ch/COURSEERA/pull/1
-State: closed
-Title: [WIP] Add README file for simple interest calculator
-Head repository: Chandrashekhar-ch/COURSEERA
-Base repository: Chandrashekhar-ch/COURSEERA
-Head branch: copilot/add-readme-simple-interest-calculator
-Base branch: main
+Verified terminal output fields:
+html_url: https://github.com/Chandrashekhar-ch/COURSEERA/pull/1
+state: closed
+title: [WIP] Add README file for simple interest calculator
+head.repo.full_name: Chandrashekhar-ch/COURSEERA
+head.ref: copilot/add-readme-simple-interest-calculator
+base.repo.full_name: Chandrashekhar-ch/COURSEERA
+base.ref: main
+
+Note: The requested repository
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub does not
+exist as a public repository under the account used for this workspace, so a
+pull request API response for that repository cannot be verified here.

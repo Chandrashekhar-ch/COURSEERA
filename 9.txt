@@ -4,9 +4,6 @@ Command:
 git branch -vv
 
 Terminal output:
-* main b447cf7 [origin/main] Create forked-repo
-
-Remote branches:
-origin/HEAD -> origin/main
-origin/main
-origin/copilot/add-readme-simple-interest-calculator
+  bug-fix-revert f38a089 Revert "Rename tests heading"
+  bug-fix-typo   858bfa8 Fix README hyphenation typo
+* main           858bfa8 [origin/main: ahead 2] Fix README hyphenation typo

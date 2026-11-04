@@ -1,0 +1,7 @@
+Command:
+git branch -vv
+
+Terminal output:
+  bug-fix-revert f38a089 Revert "Rename tests heading"
+  bug-fix-typo   858bfa8 Fix README hyphenation typo
+* main           858bfa8 [origin/main: ahead 2] Fix README hyphenation typo

@@ -1,0 +1,16 @@
+Command:
+curl -s https://api.github.com/repos/Chandrashekhar-ch/COURSEERA/pulls/1
+
+Verified terminal output fields:
+html_url: https://github.com/Chandrashekhar-ch/COURSEERA/pull/1
+state: closed
+title: [WIP] Add README file for simple interest calculator
+head.repo.full_name: Chandrashekhar-ch/COURSEERA
+head.ref: copilot/add-readme-simple-interest-calculator
+base.repo.full_name: Chandrashekhar-ch/COURSEERA
+base.ref: main
+
+Note:
+The repository ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+is not available as a public repository under the account used here, so its
+pull-request response cannot be verified.
