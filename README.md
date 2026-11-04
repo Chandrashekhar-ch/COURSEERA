@@ -44,7 +44,7 @@ Arguments are principal, annual rate of interest, and time in years. Values must
 **Output:**
 - Simple Interest: 100.00
 
-## Tests
+## Regression Tests
 
 Run the regression tests from the project root:
 
